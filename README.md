@@ -99,6 +99,6 @@ Influence of plasma process knobs on anisotropy formation in ICP plasma etching 
 Author
 
 Siva
-Mechanical Engineer | Semiconductor Process Modeling Enthusiast
+- Mechanical Engineer | Semiconductor Process Modeling Enthusiast
 
 
