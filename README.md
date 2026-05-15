@@ -92,13 +92,14 @@ Planned future additions:
 
 ## Research Focus
 
-Main research direction:
+### Main research direction:
 
 Influence of plasma process knobs on anisotropy formation in ICP plasma etching systems using reduced-order transport modeling.
 
-Author
+## Author
 
-Siva
-- Mechanical Engineer | Semiconductor Process Modeling Enthusiast
+### Siva
+
+(Mechanical Engineer | Semiconductor Process Modeling Enthusiast)
 
 
